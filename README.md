@@ -35,7 +35,7 @@
 ## Installation & Setup
 ### **1. Clone the Repository**
 ```sh
- git clone https://github.com/yourusername/shopwave.git
+ git clone https://github.com/Vidyashree-H-Shetty/ShopWave.git
  cd shopwave
 ```
 
