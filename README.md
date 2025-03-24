@@ -67,9 +67,9 @@ npm run dev
 cd frontend
 npm run dev
 ```
-### **Deployment(Live Demo)**
+## **Deployment(Live Demo)**
 ```sh
-https://wellness-wizard.onrender.com
+https://shopwave-s5oo.onrender.com
 ```
 
 ## Contributing
